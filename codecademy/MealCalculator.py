@@ -5,3 +5,4 @@ tip = 15/100
 meal = meal + meal * tax
 total = meal + meal * tip
 print("%.2f" % total )
+print(tax)
